@@ -2,7 +2,7 @@
 
 Playing Chrome Dinosaur Game using electromyography (AD8232)
 
-Game: chrome://dino/ (Open in Google Chrome)
+Game: <a href="chrome://dino/" title="game">chrome://dino/</a> (Open in Google Chrome)
 
 -------------------------
 
